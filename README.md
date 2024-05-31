@@ -4,7 +4,7 @@
 
 💡 On this account, you will find a variety of projects that I have worked on, including:
 
-* 🎯 Test automation frameworks for web applications using Cypress
+* 🎯 Test automation frameworks for web applications using Cypress & Playwright
 * 🧭 Exploratory testing documentation and reports
 * 🐛 Test case and bug tracking templates
 * 🧩 Full-stack web development projects using technologies such as HTML, CSS, JavaScript, and Node.js
