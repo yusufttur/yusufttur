@@ -4,14 +4,14 @@
 
 💡 On this account, you will find a variety of projects that I have worked on, including:
 
-* 🎯 Test automation frameworks for web applications using Cypress & Playwright
+* 🎯 Test automation frameworks for web applications using Playwright
 * 🧭 Exploratory testing documentation and reports
 * 🐛 Test case and bug tracking templates
 * 🧩 Full-stack web development projects using technologies such as HTML, CSS, JavaScript, and Node.js
 
-⚙️ All of the code and documentation found here is a work in progress and is constantly being updated and improved upon.
+⚙️ All of the code and documentation found here is a work in progress, constantly being updated and improved.
 
-☎️  Feel free to reach out to me if you have any questions or feedback on any of the projects. I am always happy to collaborate and learn from others in the industry.
+☎️  Feel free to contact me with any questions or feedback on any project. I am always happy to collaborate and learn from others in the industry.
 
  💙 Thank you for visiting my GitHub account.
 
