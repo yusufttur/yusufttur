@@ -9,7 +9,6 @@
 * 🐛 Test case and bug tracking templates
 * 🧩 Full-stack web development projects using technologies such as HTML, CSS, JavaScript, and Node.js
 
-⚙️ All of the code and documentation found here is a work in progress, constantly being updated and improved.
 
 ☎️  Feel free to contact me with any questions or feedback on any project. I am always happy to collaborate and learn from others in the industry.
 
